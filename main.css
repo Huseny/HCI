@@ -1,0 +1,65 @@
+* {
+  font-family: "Oswald", sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  background-color: #572d13;
+}
+
+.address {
+  font-size: 0.7em;
+}
+
+.nav-link,
+.active {
+  color: white;
+}
+
+.navbar-toggler {
+  background-color: white;
+}
+
+.left-side , .right-side{
+    background-color: #ffe7cc;
+}
+
+.description {
+  background: url(img/Yale-Univ-Art-Gallery-Building-Image-Sheet.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.description__text {
+    background-color: rgba(0, 0, 0, 0.7)
+}
+
+.description__school-name {
+    color: #F99417;
+}
+
+.description__school-name2 {
+    color: #EB455F;
+}
+
+.description__sele {
+    color: #AACB73;
+    font-size: large;
+    font-weight: 800;
+}
+
+.reset:hover {
+    color: #572d13;
+}
+
+.fab {
+    transition: .4s;
+}
+
+.fab:hover {
+    transform: translateY(-5px);
+}
