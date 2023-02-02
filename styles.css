@@ -1,0 +1,34 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    background-color: #572D13;
+}
+
+.address {
+    font-size: 0.7em;
+}
+
+.nav-link , .active {
+    color: white;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+
+row{
+
+font-family: 'Roboto Slab', serif;
+font-family: 'Sacramento', cursive;
+}
+card{
+    font-family: 'Fasthand', cursive;
+    font-family: 'Patrick Hand', cursive;
+}
