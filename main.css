@@ -2,6 +2,10 @@
   font-family: "Oswald", sans-serif;
 }
 
+body {
+  background: #a00221;;
+}
+
 img {
   max-width: 100%;
 }
@@ -23,11 +27,7 @@ header {
   background-color: white;
 }
 
-.left-side , .right-side{
-    background-color: #ffe7cc;
-}
-
-.description {
+.description123 {
   background: url(img/Yale-Univ-Art-Gallery-Building-Image-Sheet.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -62,4 +62,9 @@ header {
 
 .fab:hover {
     transform: translateY(-5px);
+}
+
+
+.activated {
+  box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 1);
 }
